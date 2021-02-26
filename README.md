@@ -3,4 +3,4 @@ Java command-line app for generating PNG images of supplied text, coloured white
 
 It won't do line breaks, so if you need text broken over several lines, you'll need to generate a new image per line.
 
-By default, the image will be 200px high by 800px wide, but you can override this if needed.
+1st version of this will have a single default font and a fixed image size. In future I'll try and make both of these more easily changeable.
